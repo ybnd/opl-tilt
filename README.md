@@ -9,7 +9,7 @@ To get these rays to draw correctly, we also need to replicate their graphical c
 
 ### Why?
 
-To show how the transverse position of one of the objective lenses in a Linnik interferometer affects the effective tilt of the recorded interference signal. 
+To show how the transverse position of one of the objective lenses in a Linnik interferometer affects the effective tilt of the recorded interference signal. ![lens xy tilt cg](.assets/README/lens xy tilt cg.gif)
 
 Because of this, the XY position of the sample objective can be used to compensate for the relative tilt of the reference reflector and the sample. In this way, the tilt of the interference signal can be finely adjusted without affecting the axial position of the coherence gate or the focus of the reference arm.
 
